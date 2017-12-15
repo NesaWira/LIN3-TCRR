@@ -266,8 +266,8 @@ autoinvite = []
 autoleaveroom = []
 targets = []
 Bots=[mid,Amid,Bmid,Cmid,Dmid,Emid]
-admin = ["ua045df9ee16399c865d9eb130d971a37"]
-owner = ["ua045df9ee16399c865d9eb130d971a37"]
+admin = ["u0710a42a75e0a476ad687639db8c069c"]
+owner = ["u0710a42a75e0a476ad687639db8c069c"]
 wait = {
     'contact':False,
     'autoJoin':True,
